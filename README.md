@@ -41,12 +41,7 @@
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gg9784&show_icons=true&theme=tokyonight)
 
----
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=gg9784&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me  
 - 💼 LinkedIn: https://www.linkedin.com/in/govind-gehlot-98a190286/  
