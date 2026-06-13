@@ -24,7 +24,8 @@
 ### ⚙️ Frameworks & Tools  
 - Node.js  
 - Express.js  
-- React (Learning 🚀)  
+- React
+- Typescript
 - MongoDB  
 - Git & GitHub  
 - VS Code  
