@@ -192,14 +192,7 @@ const govind: Developer = {
 
 </div>
 
----
 
-
----
-
-
-
----
 
 ## Achievements
 
