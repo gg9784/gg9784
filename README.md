@@ -1,54 +1,28 @@
-# 👋 Hi, I'm Govind  
+<div align="center">
 
-💻 **Software Developer | Problem Solver | Tech Enthusiast**  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Govind%20Gehlot&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=16" />
 
----
-
-## 🚀 About Me  
-- 🎓 Passionate about **Web Development & Backend Engineering**  
-- ⚡ Strong in **Data Structures & Algorithms**  
-- 🛠️ Currently building projects using **JavaScript, Node.js & React**  
-- 🏀 Sports achiever: Basketball Champion & Track Athlete  
-- 📚 Always learning new technologies and improving skills  
+</div>
 
 ---
 
-## 🧠 Tech Stack  
+<div align="center">
 
-### 💻 Languages  
-- JavaScript (ES6+)  
-- C++  
-- HTML5  
-- CSS3  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Govind+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A0;Basketball+Champion+%F0%9F%8F%80;Always+building+something+cool+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-### ⚙️ Frameworks & Tools  
-- Node.js  
-- Express.js  
-- React
-- Typescript
-- MongoDB  
-- Git & GitHub  
-- VS Code  
+</div>
 
 ---
 
-## 🏆 Achievements  
-- 🥇 Gold Medal – 400m Race (2024)  
-- 🥈 Silver Medal – 800m Race  
-- 🏀 Basketball Champion (2023, 2025)  
+## 🧑‍💻 About Me
 
----
-
-
-
-## 🌐 Connect With Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/govind-gehlot-98a190286/  
-- 📧 Email: govindgehlot122@gmail.com  
-
----
-
-## ✨ Fun Fact  
-> "I turn ideas into reality using code 💡"
-
----
-⭐️ From [Govind Gehlot](https://github.com/gg9784)
+```javascript
+const govind = {
+  name: "Govind Gehlot",
+  role: "Software Developer",
+  location: "India 🇮🇳",
+  focus: ["Web Development", "Backend Engineering", "DSA"],
+  currentlyBuilding: "Microservices-based apps with Node.js & React",
+  funFact: "I turn ideas into reality using code 💡",
+  sports: ["🏀 Basketball Champion (2023, 2025)", "🏃 Track Athlete"],
+};
