@@ -10,11 +10,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govindgehlot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-gehlot-98a190286/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gg9784)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindgehlot9784@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/govind9784/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/govind9784?tab=activity)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gg9784&color=00D9FF&style=flat-square&label=Profile+Views)
 
@@ -70,7 +70,7 @@ const govind: Developer = {
 <td width="50%" valign="top">
 
 ### Alumni Connect — MERN Networking Platform
-**2025**
+**2025** &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/gg9784)
 
 - Connects **500+ students and alumni** with JWT, RBAC and mentorship features
 - Improved **MongoDB performance by 30%** via strategic indexing
@@ -83,7 +83,7 @@ const govind: Developer = {
 <td width="50%" valign="top">
 
 ### QuickAI — AI SaaS Platform
-**2025**
+**2025** &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/gg9784)
 
 - Serving **200+ active users** via microservices architecture
 - OAuth via **Clerk** + **PostgreSQL (Neon)** — DB latency cut by **25%**
@@ -97,7 +97,7 @@ const govind: Developer = {
 <td width="50%" valign="top">
 
 ### Hybrid MERN E-Commerce Platform
-**2024**
+**2024** &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/gg9784)
 
 - JWT + RBAC + **Redux Toolkit** — UI load improved by **20%**
 - **Stripe** gateway with order tracking across **100+ transactions**
@@ -110,7 +110,7 @@ const govind: Developer = {
 <td width="50%" valign="top">
 
 ### Code Snippet Microservices
-**2025**
+**2025** &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/gg9784/code-snippet-microservices)
 
 - Event-driven app with Snippet, Comment, Query and Message Broker services
 - Custom **HTTP-based Pub/Sub** message broker
@@ -248,8 +248,8 @@ const govind: Developer = {
 
 | Platform | Problems Solved | Focus Areas |
 |:---:|:---:|:---|
-| **LeetCode** | 900+ | Arrays, Trees, DP, Graphs, Sliding Window |
-| **GeeksForGeeks** | 900+ combined | System Design, Competitive Programming |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/govind9784/) **LeetCode** | 900+ | Arrays, Trees, DP, Graphs, Sliding Window |
+| [![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/govind9784?tab=activity) **GeeksForGeeks** | 900+ combined | System Design, Competitive Programming |
 
 </div>
 
@@ -261,14 +261,14 @@ const govind: Developer = {
 
 **Open to Backend / SDE Internship opportunities for 2026**
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govindgehlot)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-gehlot-98a190286/)
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindgehlot9784@gmail.com)
 
 <br/>
 
 *If you like my work, consider starring my repositories!*
 
-From [Govind Gehlot](https://github.com/gg9784)
+From [Govind Gehlot](https://github.com/gg9784) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/u/govind9784/) &nbsp;|&nbsp; [GeeksForGeeks](https://www.geeksforgeeks.org/profile/govind9784?tab=activity)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 
