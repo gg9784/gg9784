@@ -194,23 +194,10 @@ const govind: Developer = {
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gg9784&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
 
 ---
 
-## Contribution Activity
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gg9784&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
